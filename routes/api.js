@@ -11,7 +11,7 @@ var kuhong = db.get('mrz'); // jan diubah
 
 var creatorList = ['Mr Z']; // Nama Lu Ngab
 var creator = creatorList[Math.floor(Math.random() * creatorList.length)]; // Ini jan diubah
-var key = 'ZKeyApis' // Apikey Lu Ngab
+var key = 'apikey' // Apikey Lu Ngab
 
 // Required Modules :
 var ffmpeg = require('fluent-ffmpeg');
